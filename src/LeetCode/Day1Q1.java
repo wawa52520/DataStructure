@@ -7,7 +7,7 @@ import java.util.Map;
  * @author: yaojiabin
  * @date: 2022/3/3 10:29
  */
-public class Title1 {
+public class Day1Q1 {
     public static int[] twoSum(int[] nums, int target) {
         //返回的结果集
         int[] result = new int[2];
